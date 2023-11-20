@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
-        "iloc"
+        "iloc",
+        "toarray",
+        "Vectorize"
     ]
 }
