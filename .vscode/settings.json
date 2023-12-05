@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "iloc",
+        "multioutput",
+        "PLSSVD",
         "toarray",
         "Vectorize"
     ]
